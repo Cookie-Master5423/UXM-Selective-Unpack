@@ -40,8 +40,6 @@
 		<replacement>data1:/</replacement>
 		<replacement>data2:/</replacement>
 		<replacement>data3:/</replacement>
-		<replacement>dlc:/</replacement>
 		<replacement>sd:/</replacement>
-		<replacement>sd_dlc02:/</replacement>
 	</replacements>
 </game_info>
